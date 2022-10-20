@@ -1,5 +1,7 @@
 # Godot Tile Setup Helper
 
+On the asset library! https://godotengine.org/asset-library/asset/1502
+
 ![3x3 bitmask](addons/tile_setup_helper/icon.png)
 
 This is a Godot 3.5 addon to automatically place bitmasks and collisions into TileSets. It places buttons in the Inspector to do so.
